@@ -1,3 +1,3 @@
 # CompuRx-
 
-All project of CompuRx
+Main Project of CompuRx
